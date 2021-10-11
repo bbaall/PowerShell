@@ -1,4 +1,5 @@
 # PowerShell
-Scripts and Automation written for PowerShell
+Scripts and Automation written for PowerShell.
 
-Source code repository for all things PowerShell
+See the readme within source code for each PowerShell script for specifics regarding each script.
+-BAL
