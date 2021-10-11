@@ -3,4 +3,4 @@ If so, then sets the DNS to dynamic/automatic
 
 TO DO
 
-Selection to choose settings DNS statically or run the dynamic/automatic option
+Add selection option to choose setting DNS statically or run the dynamic/automatic option
