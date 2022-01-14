@@ -1,6 +1,9 @@
 <#
+Author: Brent Lasater
+https://github.com/bbaall
 
-Used to calculate the increase in storage used on a weekly basis.
+Used to calculate the increase in storage used over some time period.
+Intended to be run as a daily or weekly task.
 
 May need to use the actual byte value to convert to GB
 1 GB = 1073741824 Bytes
